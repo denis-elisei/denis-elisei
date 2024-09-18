@@ -2,7 +2,7 @@ Hi! 👋
 
 <br>
 
-👀 My name's Denis and I'm passionate about software development with a focus on web development. I'm currently based in Darmstadt, Germany.<br><br>🤝 Currently working for msg for banking, a company that focuses on developing software solutions for banking companies in Frankfurt, Germany.<br><br>🌱 Actively contributed to a trainee-focused project centered on managing absence times for all trainees. Currently involved in a lending service project.
+👀 My name's Denis and I'm passionate about software development with a focus on web development. I'm currently based in Haibach, Germany.<br><br>🤝 Currently working for msg for banking, a company that focuses on developing software solutions for banking companies in Frankfurt, Germany.<br><br>🌱 Actively contributed to a trainee-focused project centered on managing absence times for all trainees. Currently involved in a lending service project.
 <br>
 
 ## 💻 Tech Stack:
